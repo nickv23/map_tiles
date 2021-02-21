@@ -1,6 +1,6 @@
 # Map Tile Screenshots
 
-[Web Link](https://github.com/nickv23/map_tiles)
+[Web Link](https://nickv23.github.io/map_tiles/)
 
 ## Tile 1: Dark Mode
 
